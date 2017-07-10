@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Firestorm",
+		"distance": 2,
+		"distanceUnit": "km",
+		"time": 37,
+		"description": "Joe a parcouru 2km en 37 minutes",
+		"evaluation": [4, 3, 5, 5, 4, 5]
+	},
+	{
+		"name": "Killer Frost",
+		"distance": 2,
+		"distanceUnit": "km",
+		"time": 39,
+		"description": "Jane a parcouru 2km en 39 minutes",
+		"evaluation": [2, 3, 3, 5, 5, 5]
+	},
+	{
+		"name": "The Flash",
+		"distance": 250,
+		"distanceUnit": "km",
+		"time": 25,
+		"description": "Barry a parcouru 250km en 25 minutes",
+		"evaluation": [5, 5, 5, 5, 5, 5]
+	}
+]
